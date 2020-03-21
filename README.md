@@ -6,7 +6,7 @@ https://titouan-sola-training-api.herokuapp.com/ *(documentation disponible en c
 ## Étape 1
 * Créer un composant `Todo` contenant un titre, un état *(done / todo)* et une date de création.  Ce composant ne doit pas comporter d'intelligence, il doit simplement afficher les données qu'il reçoit par ses propriétés.
 
-* Créer un composant `TodoList` agissant comme un liste de `Todo`. Ce composant  contient de l'intelligence, et utilise des services.
+* Créer un composant `TodoList` agissant comme une liste de `Todo`. Ce composant  contient de l'intelligence, et utilise des services.
 
 * Ajouter un bouton de rafraichissement.
 
