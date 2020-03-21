@@ -1,5 +1,8 @@
 # Training React Todo App
 
+### API fournie :
+https://titouan-sola-training-api.herokuapp.com/ *(documentation disponible en cliquant sur le lien)*
+
 ## Étape 1
 * Créer un composant `Todo` contenant un titre, un état *(done / todo)* et une date de création.  Ce composant ne doit pas comporter d'intelligence, il doit simplement afficher les données qu'il reçoit par ses propriétés.
 
